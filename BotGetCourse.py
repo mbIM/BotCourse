@@ -1,7 +1,6 @@
 import vk_api
 import random
-import sys
-import lxml
+
 from грп import *
 
 token = "3d02e045e965c29c4c4a04606979e5c5b0aa3372fcd07a97d4fcfec0c799f52e46355eacac5affb5d9eb9"
